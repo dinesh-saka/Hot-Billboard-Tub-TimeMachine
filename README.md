@@ -6,16 +6,16 @@ Hot Billboard Tub TimeMachine is a Python script that allows you to travel back 
 
 To use the Hot Billboard Tub TimeMachine, follow these steps:
 
-1. Clone the repository to your local machine:
+### 1. Clone the repository to your local machine:
 ```
 git clone https://github.com/your-username/Hot-Billboard-Tub-TimeMachine.git
 cd Hot-Billboard-Tub-TimeMachine
 ```
-2. Install the required Python packages using pip:
+### 2. Install the required Python packages using pip:
 ```
 pip install -r requirements.txt
 ```
-3. Replace the placeholder values in the script with your own Spotify API credentials:
+### 3. Replace the placeholder values in the script with your own Spotify API credentials:
 
 **CLIENT_ID**: Your Spotify client ID
 
@@ -23,11 +23,11 @@ pip install -r requirements.txt
 
 **URI**: The redirect URI for your Spotify app (e.g., "http://example.com")
 
-4. Run the script:
+### 4. Run the script:
 ```
 python hot_billboard_tub.py
 ```
-5. The script will prompt you to enter a year in the format "YYYY-MM-DD". It will then fetch the Billboard Hot 100 chart data for that year, search for the corresponding tracks on Spotify, and create a private playlist with the retrieved tracks.
+### 5. The script will prompt you to enter a year in the format "YYYY-MM-DD". It will then fetch the Billboard Hot 100 chart data for that year, search for the corresponding tracks on Spotify, and create a private playlist with the retrieved tracks.
 
 ## Dependencies
 
