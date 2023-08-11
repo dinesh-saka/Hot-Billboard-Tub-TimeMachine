@@ -33,11 +33,11 @@ python hot_billboard_tub.py
 
 The Hot Billboard Tub TimeMachine project relies on the following Python packages:
 
-**beautifulsoup4**: Used for web scraping Billboard Hot 100 chart data from the website.
+1. **beautifulsoup4**: Used for web scraping Billboard Hot 100 chart data from the website.
 
-**requests**: Used to make HTTP requests to fetch web page content.
+2. **requests**: Used to make HTTP requests to fetch web page content.
 
-**spotipy**: A Python library for the Spotify Web API. It is used to search for tracks and create playlists on Spotify.
+3. **spotipy**: A Python library for the Spotify Web API. It is used to search for tracks and create playlists on Spotify.
 
 Make sure you have these packages installed before running the script.
 
