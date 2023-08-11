@@ -11,7 +11,7 @@ To use the Hot Billboard Tub TimeMachine, follow these steps:
 git clone https://github.com/your-username/Hot-Billboard-Tub-TimeMachine.git
 cd Hot-Billboard-Tub-TimeMachine
 ```
-3. Install the required Python packages using pip:
+2. Install the required Python packages using pip:
 ```
 pip install -r requirements.txt
 ```
