@@ -17,9 +17,9 @@ pip install -r requirements.txt
 ```
 3. Replace the placeholder values in the script with your own Spotify API credentials:
 
-CLIENT_ID: Your Spotify client ID
-CLIENT_SECRET: Your Spotify client secret
-URI: The redirect URI for your Spotify app (e.g., "http://example.com")
++CLIENT_ID: Your Spotify client ID
++CLIENT_SECRET: Your Spotify client secret
++URI: The redirect URI for your Spotify app (e.g., "http://example.com")
 
 4. Run the script:
 ```
